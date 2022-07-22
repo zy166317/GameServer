@@ -1,7 +1,7 @@
 package redis
 
 import (
-	"HSLX/pkg/db"
+	"GameServer/pkg/db"
 	"fmt"
 	"github.com/go-redis/redis/v8"
 )

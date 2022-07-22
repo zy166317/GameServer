@@ -1,6 +1,6 @@
 package login
 
-import "HSLX/pkg/db"
+import "GameServer/pkg/db"
 
 type Configuration struct {
 	ListenAddr string    `yaml:"listenAddr"`

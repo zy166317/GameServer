@@ -1,8 +1,8 @@
 package login
 
 import (
-	"HSLX/pkg/db"
-	"HSLX/pkg/redis"
+	"GameServer/pkg/db"
+	"GameServer/pkg/redis"
 	"log"
 )
 

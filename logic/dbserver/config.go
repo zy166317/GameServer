@@ -1,6 +1,6 @@
 package dbserver
 
-import "HSLX/pkg/db"
+import "GameServer/pkg/db"
 
 type Configuration struct {
 	Mysql db.Mysql

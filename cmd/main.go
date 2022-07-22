@@ -1,11 +1,11 @@
 package main
 
 import (
-	"HSLX/logic/dbserver"
-	"HSLX/pkg/db"
-	"HSLX/pkg/redis"
+	"GameServer/logic/dbserver"
+	"GameServer/pkg/db"
+	"GameServer/pkg/redis"
 	"flag"
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 	"io/ioutil"
 	"log"
 )
